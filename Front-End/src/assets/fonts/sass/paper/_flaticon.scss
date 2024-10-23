@@ -1,0 +1,446 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 26/07/2020 08:53
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-payment-method:before { content: "\f100"; }
+.flaticon-area-graph:before { content: "\f101"; }
+.flaticon-cash:before { content: "\f102"; }
+.flaticon-atm:before { content: "\f103"; }
+.flaticon-bank:before { content: "\f104"; }
+.flaticon-taxes:before { content: "\f105"; }
+.flaticon-credit-card:before { content: "\f106"; }
+.flaticon-contract:before { content: "\f107"; }
+.flaticon-coin:before { content: "\f108"; }
+.flaticon-calculator:before { content: "\f109"; }
+.flaticon-budget:before { content: "\f10a"; }
+.flaticon-bill:before { content: "\f10b"; }
+.flaticon-nfc-card:before { content: "\f10c"; }
+.flaticon-debit-card:before { content: "\f10d"; }
+.flaticon-debt:before { content: "\f10e"; }
+.flaticon-deposit:before { content: "\f10f"; }
+.flaticon-deposit-1:before { content: "\f110"; }
+.flaticon-document:before { content: "\f111"; }
+.flaticon-card-payment:before { content: "\f112"; }
+.flaticon-fingerprint-identification:before { content: "\f113"; }
+.flaticon-currency-exchange:before { content: "\f114"; }
+.flaticon-money-exchange:before { content: "\f115"; }
+.flaticon-euro-coin:before { content: "\f116"; }
+.flaticon-dollar-coin:before { content: "\f117"; }
+.flaticon-headphone-mic:before { content: "\f118"; }
+.flaticon-invoice:before { content: "\f119"; }
+.flaticon-customer-support:before { content: "\f11a"; }
+.flaticon-mobile-banking:before { content: "\f11b"; }
+.flaticon-mobile-card:before { content: "\f11c"; }
+.flaticon-mobile-payment:before { content: "\f11d"; }
+.flaticon-pound-money:before { content: "\f11e"; }
+.flaticon-password:before { content: "\f11f"; }
+.flaticon-mortgage:before { content: "\f120"; }
+.flaticon-profit:before { content: "\f121"; }
+.flaticon-money-growth:before { content: "\f122"; }
+.flaticon-education-cost:before { content: "\f123"; }
+.flaticon-payment-protection:before { content: "\f124"; }
+.flaticon-ruble:before { content: "\f125"; }
+.flaticon-safe-box:before { content: "\f126"; }
+.flaticon-support-services:before { content: "\f127"; }
+.flaticon-tax-free:before { content: "\f128"; }
+.flaticon-transfer-money:before { content: "\f129"; }
+.flaticon-customer-care:before { content: "\f12a"; }
+.flaticon-cash-withdrawal:before { content: "\f12b"; }
+.flaticon-payment-method-1:before { content: "\f12c"; }
+.flaticon-wallet:before { content: "\f12d"; }
+.flaticon-wallet-1:before { content: "\f12e"; }
+.flaticon-taxes-1:before { content: "\f12f"; }
+.flaticon-wrong-password:before { content: "\f130"; }
+.flaticon-yen:before { content: "\f131"; }
+.flaticon-deposit-2:before { content: "\f132"; }
+.flaticon-credit-card-1:before { content: "\f133"; }
+.flaticon-recruitment:before { content: "\f134"; }
+.flaticon-aim:before { content: "\f135"; }
+.flaticon-shopping-cart:before { content: "\f136"; }
+.flaticon-clock:before { content: "\f137"; }
+.flaticon-globalization:before { content: "\f138"; }
+.flaticon-admin:before { content: "\f139"; }
+.flaticon-withdrawal:before { content: "\f13a"; }
+.flaticon-safety-box:before { content: "\f13b"; }
+.flaticon-remove:before { content: "\f13c"; }
+.flaticon-add:before { content: "\f13d"; }
+.flaticon-location:before { content: "\f13e"; }
+.flaticon-organization-chart:before { content: "\f13f"; }
+.flaticon-briefcase:before { content: "\f140"; }
+.flaticon-salary:before { content: "\f141"; }
+.flaticon-bill-1:before { content: "\f142"; }
+.flaticon-calculator-1:before { content: "\f143"; }
+.flaticon-check:before { content: "\f144"; }
+.flaticon-bank-1:before { content: "\f145"; }
+.flaticon-advertising:before { content: "\f146"; }
+.flaticon-pie-chart:before { content: "\f147"; }
+.flaticon-search:before { content: "\f148"; }
+.flaticon-coins-stack:before { content: "\f149"; }
+.flaticon-coin-1:before { content: "\f14a"; }
+.flaticon-coins:before { content: "\f14b"; }
+.flaticon-company:before { content: "\f14c"; }
+.flaticon-invoice-1:before { content: "\f14d"; }
+.flaticon-invoices:before { content: "\f14e"; }
+.flaticon-light-bulb:before { content: "\f14f"; }
+.flaticon-coffee:before { content: "\f150"; }
+.flaticon-bookmark:before { content: "\f151"; }
+.flaticon-board:before { content: "\f152"; }
+.flaticon-stats:before { content: "\f153"; }
+.flaticon-shopping-basket:before { content: "\f154"; }
+.flaticon-presentation:before { content: "\f155"; }
+.flaticon-comment:before { content: "\f156"; }
+.flaticon-factory:before { content: "\f157"; }
+.flaticon-envelope:before { content: "\f158"; }
+.flaticon-money-bag:before { content: "\f159"; }
+.flaticon-money:before { content: "\f15a"; }
+.flaticon-pin:before { content: "\f15b"; }
+.flaticon-trash-can:before { content: "\f15c"; }
+.flaticon-timer:before { content: "\f15d"; }
+.flaticon-shopping-basket-1:before { content: "\f15e"; }
+.flaticon-shopping-basket-2:before { content: "\f15f"; }
+.flaticon-safe-box-1:before { content: "\f160"; }
+.flaticon-briefcase-1:before { content: "\f161"; }
+.flaticon-trophy:before { content: "\f162"; }
+.flaticon-user:before { content: "\f163"; }
+.flaticon-payment-method-2:before { content: "\f164"; }
+.flaticon-abacus:before { content: "\f165"; }
+.flaticon-analytics:before { content: "\f166"; }
+.flaticon-bank-2:before { content: "\f167"; }
+.flaticon-accounting:before { content: "\f168"; }
+.flaticon-cheque:before { content: "\f169"; }
+.flaticon-formula:before { content: "\f16a"; }
+.flaticon-graphic:before { content: "\f16b"; }
+.flaticon-statistics:before { content: "\f16c"; }
+.flaticon-debt-1:before { content: "\f16d"; }
+.flaticon-statistics-1:before { content: "\f16e"; }
+.flaticon-clipboard:before { content: "\f16f"; }
+.flaticon-invoice-2:before { content: "\f170"; }
+.flaticon-loan:before { content: "\f171"; }
+.flaticon-money-bag-1:before { content: "\f172"; }
+.flaticon-pay-day:before { content: "\f173"; }
+.flaticon-pie-chart-1:before { content: "\f174"; }
+.flaticon-piggy-bank:before { content: "\f175"; }
+.flaticon-excel:before { content: "\f176"; }
+.flaticon-mail:before { content: "\f177"; }
+.flaticon-scale:before { content: "\f178"; }
+.flaticon-deposit-box:before { content: "\f179"; }
+.flaticon-business-report:before { content: "\f17a"; }
+.flaticon-profit-1:before { content: "\f17b"; }
+.flaticon-excel-1:before { content: "\f17c"; }
+.flaticon-shopping-bag:before { content: "\f17d"; }
+.flaticon-bank-3:before { content: "\f17e"; }
+.flaticon-accounting-1:before { content: "\f17f"; }
+.flaticon-bill-2:before { content: "\f180"; }
+.flaticon-basket:before { content: "\f181"; }
+.flaticon-basket-1:before { content: "\f182"; }
+.flaticon-payment-method-3:before { content: "\f183"; }
+.flaticon-cheque-1:before { content: "\f184"; }
+.flaticon-shopping-cart-1:before { content: "\f185"; }
+.flaticon-online-shopping:before { content: "\f186"; }
+.flaticon-online-shopping-1:before { content: "\f187"; }
+.flaticon-basket-2:before { content: "\f188"; }
+.flaticon-shopping-online:before { content: "\f189"; }
+.flaticon-shopping-online-1:before { content: "\f18a"; }
+.flaticon-credit-card-2:before { content: "\f18b"; }
+.flaticon-payment-method-4:before { content: "\f18c"; }
+.flaticon-credit-card-payment:before { content: "\f18d"; }
+.flaticon-protection:before { content: "\f18e"; }
+.flaticon-document-1:before { content: "\f18f"; }
+.flaticon-clipboard-1:before { content: "\f190"; }
+.flaticon-delivery-truck:before { content: "\f191"; }
+.flaticon-delivery-box:before { content: "\f192"; }
+.flaticon-credit-card-3:before { content: "\f193"; }
+.flaticon-payment:before { content: "\f194"; }
+.flaticon-money-bag-2:before { content: "\f195"; }
+.flaticon-pay:before { content: "\f196"; }
+.flaticon-payment-1:before { content: "\f197"; }
+.flaticon-pay-1:before { content: "\f198"; }
+.flaticon-payment-2:before { content: "\f199"; }
+.flaticon-money-exchange-1:before { content: "\f19a"; }
+.flaticon-shop:before { content: "\f19b"; }
+.flaticon-shopping:before { content: "\f19c"; }
+.flaticon-shopping-online-2:before { content: "\f19d"; }
+.flaticon-sale:before { content: "\f19e"; }
+.flaticon-shopping-cart-2:before { content: "\f19f"; }
+.flaticon-shopping-online-3:before { content: "\f1a0"; }
+.flaticon-payment-method-5:before { content: "\f1a1"; }
+.flaticon-receipt:before { content: "\f1a2"; }
+.flaticon-mobile-shopping:before { content: "\f1a3"; }
+.flaticon-search-1:before { content: "\f1a4"; }
+.flaticon-shop-1:before { content: "\f1a5"; }
+.flaticon-mobile-shopping-1:before { content: "\f1a6"; }
+.flaticon-mobile-shopping-2:before { content: "\f1a7"; }
+.flaticon-credit-card-4:before { content: "\f1a8"; }
+.flaticon-receipt-1:before { content: "\f1a9"; }
+.flaticon-bill-3:before { content: "\f1aa"; }
+.flaticon-shopping-cart-3:before { content: "\f1ab"; }
+.flaticon-mobile-shopping-3:before { content: "\f1ac"; }
+.flaticon-sale-1:before { content: "\f1ad"; }
+.flaticon-wallet-2:before { content: "\f1ae"; }
+.flaticon-win-win:before { content: "\f1af"; }
+.flaticon-decision:before { content: "\f1b0"; }
+.flaticon-benefit:before { content: "\f1b1"; }
+.flaticon-business-and-finance:before { content: "\f1b2"; }
+.flaticon-budget-1:before { content: "\f1b3"; }
+.flaticon-cash-flow:before { content: "\f1b4"; }
+.flaticon-expense:before { content: "\f1b5"; }
+.flaticon-funding:before { content: "\f1b6"; }
+.flaticon-tax:before { content: "\f1b7"; }
+.flaticon-debt-2:before { content: "\f1b8"; }
+.flaticon-business-and-finance-1:before { content: "\f1b9"; }
+.flaticon-business-and-finance-2:before { content: "\f1ba"; }
+.flaticon-expense-1:before { content: "\f1bb"; }
+.flaticon-business-and-finance-3:before { content: "\f1bc"; }
+.flaticon-expense-2:before { content: "\f1bd"; }
+.flaticon-birthday-and-party:before { content: "\f1be"; }
+.flaticon-business-and-finance-4:before { content: "\f1bf"; }
+.flaticon-wage:before { content: "\f1c0"; }
+.flaticon-return-of-investment:before { content: "\f1c1"; }
+.flaticon-paycheck:before { content: "\f1c2"; }
+.flaticon-expense-3:before { content: "\f1c3"; }
+.flaticon-paycheck-1:before { content: "\f1c4"; }
+.flaticon-ledger:before { content: "\f1c5"; }
+.flaticon-stock-market:before { content: "\f1c6"; }
+.flaticon-trading:before { content: "\f1c7"; }
+.flaticon-business-and-finance-5:before { content: "\f1c8"; }
+.flaticon-business-and-finance-6:before { content: "\f1c9"; }
+.flaticon-expenses:before { content: "\f1ca"; }
+
+    $font-Flaticon-payment-method: "\f100";
+    $font-Flaticon-area-graph: "\f101";
+    $font-Flaticon-cash: "\f102";
+    $font-Flaticon-atm: "\f103";
+    $font-Flaticon-bank: "\f104";
+    $font-Flaticon-taxes: "\f105";
+    $font-Flaticon-credit-card: "\f106";
+    $font-Flaticon-contract: "\f107";
+    $font-Flaticon-coin: "\f108";
+    $font-Flaticon-calculator: "\f109";
+    $font-Flaticon-budget: "\f10a";
+    $font-Flaticon-bill: "\f10b";
+    $font-Flaticon-nfc-card: "\f10c";
+    $font-Flaticon-debit-card: "\f10d";
+    $font-Flaticon-debt: "\f10e";
+    $font-Flaticon-deposit: "\f10f";
+    $font-Flaticon-deposit-1: "\f110";
+    $font-Flaticon-document: "\f111";
+    $font-Flaticon-card-payment: "\f112";
+    $font-Flaticon-fingerprint-identification: "\f113";
+    $font-Flaticon-currency-exchange: "\f114";
+    $font-Flaticon-money-exchange: "\f115";
+    $font-Flaticon-euro-coin: "\f116";
+    $font-Flaticon-dollar-coin: "\f117";
+    $font-Flaticon-headphone-mic: "\f118";
+    $font-Flaticon-invoice: "\f119";
+    $font-Flaticon-customer-support: "\f11a";
+    $font-Flaticon-mobile-banking: "\f11b";
+    $font-Flaticon-mobile-card: "\f11c";
+    $font-Flaticon-mobile-payment: "\f11d";
+    $font-Flaticon-pound-money: "\f11e";
+    $font-Flaticon-password: "\f11f";
+    $font-Flaticon-mortgage: "\f120";
+    $font-Flaticon-profit: "\f121";
+    $font-Flaticon-money-growth: "\f122";
+    $font-Flaticon-education-cost: "\f123";
+    $font-Flaticon-payment-protection: "\f124";
+    $font-Flaticon-ruble: "\f125";
+    $font-Flaticon-safe-box: "\f126";
+    $font-Flaticon-support-services: "\f127";
+    $font-Flaticon-tax-free: "\f128";
+    $font-Flaticon-transfer-money: "\f129";
+    $font-Flaticon-customer-care: "\f12a";
+    $font-Flaticon-cash-withdrawal: "\f12b";
+    $font-Flaticon-payment-method-1: "\f12c";
+    $font-Flaticon-wallet: "\f12d";
+    $font-Flaticon-wallet-1: "\f12e";
+    $font-Flaticon-taxes-1: "\f12f";
+    $font-Flaticon-wrong-password: "\f130";
+    $font-Flaticon-yen: "\f131";
+    $font-Flaticon-deposit-2: "\f132";
+    $font-Flaticon-credit-card-1: "\f133";
+    $font-Flaticon-recruitment: "\f134";
+    $font-Flaticon-aim: "\f135";
+    $font-Flaticon-shopping-cart: "\f136";
+    $font-Flaticon-clock: "\f137";
+    $font-Flaticon-globalization: "\f138";
+    $font-Flaticon-admin: "\f139";
+    $font-Flaticon-withdrawal: "\f13a";
+    $font-Flaticon-safety-box: "\f13b";
+    $font-Flaticon-remove: "\f13c";
+    $font-Flaticon-add: "\f13d";
+    $font-Flaticon-location: "\f13e";
+    $font-Flaticon-organization-chart: "\f13f";
+    $font-Flaticon-briefcase: "\f140";
+    $font-Flaticon-salary: "\f141";
+    $font-Flaticon-bill-1: "\f142";
+    $font-Flaticon-calculator-1: "\f143";
+    $font-Flaticon-check: "\f144";
+    $font-Flaticon-bank-1: "\f145";
+    $font-Flaticon-advertising: "\f146";
+    $font-Flaticon-pie-chart: "\f147";
+    $font-Flaticon-search: "\f148";
+    $font-Flaticon-coins-stack: "\f149";
+    $font-Flaticon-coin-1: "\f14a";
+    $font-Flaticon-coins: "\f14b";
+    $font-Flaticon-company: "\f14c";
+    $font-Flaticon-invoice-1: "\f14d";
+    $font-Flaticon-invoices: "\f14e";
+    $font-Flaticon-light-bulb: "\f14f";
+    $font-Flaticon-coffee: "\f150";
+    $font-Flaticon-bookmark: "\f151";
+    $font-Flaticon-board: "\f152";
+    $font-Flaticon-stats: "\f153";
+    $font-Flaticon-shopping-basket: "\f154";
+    $font-Flaticon-presentation: "\f155";
+    $font-Flaticon-comment: "\f156";
+    $font-Flaticon-factory: "\f157";
+    $font-Flaticon-envelope: "\f158";
+    $font-Flaticon-money-bag: "\f159";
+    $font-Flaticon-money: "\f15a";
+    $font-Flaticon-pin: "\f15b";
+    $font-Flaticon-trash-can: "\f15c";
+    $font-Flaticon-timer: "\f15d";
+    $font-Flaticon-shopping-basket-1: "\f15e";
+    $font-Flaticon-shopping-basket-2: "\f15f";
+    $font-Flaticon-safe-box-1: "\f160";
+    $font-Flaticon-briefcase-1: "\f161";
+    $font-Flaticon-trophy: "\f162";
+    $font-Flaticon-user: "\f163";
+    $font-Flaticon-payment-method-2: "\f164";
+    $font-Flaticon-abacus: "\f165";
+    $font-Flaticon-analytics: "\f166";
+    $font-Flaticon-bank-2: "\f167";
+    $font-Flaticon-accounting: "\f168";
+    $font-Flaticon-cheque: "\f169";
+    $font-Flaticon-formula: "\f16a";
+    $font-Flaticon-graphic: "\f16b";
+    $font-Flaticon-statistics: "\f16c";
+    $font-Flaticon-debt-1: "\f16d";
+    $font-Flaticon-statistics-1: "\f16e";
+    $font-Flaticon-clipboard: "\f16f";
+    $font-Flaticon-invoice-2: "\f170";
+    $font-Flaticon-loan: "\f171";
+    $font-Flaticon-money-bag-1: "\f172";
+    $font-Flaticon-pay-day: "\f173";
+    $font-Flaticon-pie-chart-1: "\f174";
+    $font-Flaticon-piggy-bank: "\f175";
+    $font-Flaticon-excel: "\f176";
+    $font-Flaticon-mail: "\f177";
+    $font-Flaticon-scale: "\f178";
+    $font-Flaticon-deposit-box: "\f179";
+    $font-Flaticon-business-report: "\f17a";
+    $font-Flaticon-profit-1: "\f17b";
+    $font-Flaticon-excel-1: "\f17c";
+    $font-Flaticon-shopping-bag: "\f17d";
+    $font-Flaticon-bank-3: "\f17e";
+    $font-Flaticon-accounting-1: "\f17f";
+    $font-Flaticon-bill-2: "\f180";
+    $font-Flaticon-basket: "\f181";
+    $font-Flaticon-basket-1: "\f182";
+    $font-Flaticon-payment-method-3: "\f183";
+    $font-Flaticon-cheque-1: "\f184";
+    $font-Flaticon-shopping-cart-1: "\f185";
+    $font-Flaticon-online-shopping: "\f186";
+    $font-Flaticon-online-shopping-1: "\f187";
+    $font-Flaticon-basket-2: "\f188";
+    $font-Flaticon-shopping-online: "\f189";
+    $font-Flaticon-shopping-online-1: "\f18a";
+    $font-Flaticon-credit-card-2: "\f18b";
+    $font-Flaticon-payment-method-4: "\f18c";
+    $font-Flaticon-credit-card-payment: "\f18d";
+    $font-Flaticon-protection: "\f18e";
+    $font-Flaticon-document-1: "\f18f";
+    $font-Flaticon-clipboard-1: "\f190";
+    $font-Flaticon-delivery-truck: "\f191";
+    $font-Flaticon-delivery-box: "\f192";
+    $font-Flaticon-credit-card-3: "\f193";
+    $font-Flaticon-payment: "\f194";
+    $font-Flaticon-money-bag-2: "\f195";
+    $font-Flaticon-pay: "\f196";
+    $font-Flaticon-payment-1: "\f197";
+    $font-Flaticon-pay-1: "\f198";
+    $font-Flaticon-payment-2: "\f199";
+    $font-Flaticon-money-exchange-1: "\f19a";
+    $font-Flaticon-shop: "\f19b";
+    $font-Flaticon-shopping: "\f19c";
+    $font-Flaticon-shopping-online-2: "\f19d";
+    $font-Flaticon-sale: "\f19e";
+    $font-Flaticon-shopping-cart-2: "\f19f";
+    $font-Flaticon-shopping-online-3: "\f1a0";
+    $font-Flaticon-payment-method-5: "\f1a1";
+    $font-Flaticon-receipt: "\f1a2";
+    $font-Flaticon-mobile-shopping: "\f1a3";
+    $font-Flaticon-search-1: "\f1a4";
+    $font-Flaticon-shop-1: "\f1a5";
+    $font-Flaticon-mobile-shopping-1: "\f1a6";
+    $font-Flaticon-mobile-shopping-2: "\f1a7";
+    $font-Flaticon-credit-card-4: "\f1a8";
+    $font-Flaticon-receipt-1: "\f1a9";
+    $font-Flaticon-bill-3: "\f1aa";
+    $font-Flaticon-shopping-cart-3: "\f1ab";
+    $font-Flaticon-mobile-shopping-3: "\f1ac";
+    $font-Flaticon-sale-1: "\f1ad";
+    $font-Flaticon-wallet-2: "\f1ae";
+    $font-Flaticon-win-win: "\f1af";
+    $font-Flaticon-decision: "\f1b0";
+    $font-Flaticon-benefit: "\f1b1";
+    $font-Flaticon-business-and-finance: "\f1b2";
+    $font-Flaticon-budget-1: "\f1b3";
+    $font-Flaticon-cash-flow: "\f1b4";
+    $font-Flaticon-expense: "\f1b5";
+    $font-Flaticon-funding: "\f1b6";
+    $font-Flaticon-tax: "\f1b7";
+    $font-Flaticon-debt-2: "\f1b8";
+    $font-Flaticon-business-and-finance-1: "\f1b9";
+    $font-Flaticon-business-and-finance-2: "\f1ba";
+    $font-Flaticon-expense-1: "\f1bb";
+    $font-Flaticon-business-and-finance-3: "\f1bc";
+    $font-Flaticon-expense-2: "\f1bd";
+    $font-Flaticon-birthday-and-party: "\f1be";
+    $font-Flaticon-business-and-finance-4: "\f1bf";
+    $font-Flaticon-wage: "\f1c0";
+    $font-Flaticon-return-of-investment: "\f1c1";
+    $font-Flaticon-paycheck: "\f1c2";
+    $font-Flaticon-expense-3: "\f1c3";
+    $font-Flaticon-paycheck-1: "\f1c4";
+    $font-Flaticon-ledger: "\f1c5";
+    $font-Flaticon-stock-market: "\f1c6";
+    $font-Flaticon-trading: "\f1c7";
+    $font-Flaticon-business-and-finance-5: "\f1c8";
+    $font-Flaticon-business-and-finance-6: "\f1c9";
+    $font-Flaticon-expenses: "\f1ca";
