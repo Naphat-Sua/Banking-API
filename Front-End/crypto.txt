@@ -1,0 +1,23 @@
+Socket การทำงานคือ
+- แจ้งเตือนตอนมี Order ใหม่ ไม่ว่าจะ Deposit, Withdraw, Settlement -- รอ API
+- หากอยู่ในหน้าใดๆมี Order เปลี่ยนสถานะให้เปลี่ยนตามพร้อมค่า MDR -- รอ API
+
+UI Crypto มีการตั้งค่าดังนี้
+- มีเรื่องของ % การดิล Deposit, Withdraw, Settlement
+  ## --ไม่มีข้อมูลฟิวที่จะทำ UI เลยใส่ Input ปล่าวๆไปก่อน ใส่ไปใน Admin
+- ตั้งค่า address wallet และสกุลเงินดิจิตอลที่จะถอน
+  ## --ไม่มีข้อมูลฟิวที่จะทำ UI เลยใส่ Input ปล่าวๆไปก่อน ใส่ไปใน Customer
+
+ของเก่าสร้างใหม่ เฉพาะ admin , customer , agent
+
+Banktransfer ## ใส่ไปใน admin , customer , agent
+- Deposit
+- Withdraw
+- Settlement
+
+Crypto ## ใส่ไปใน admin , customer , agent
+- Deposit
+- Withdraw
+- Settlement
+
+NS
