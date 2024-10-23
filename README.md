@@ -2,9 +2,7 @@
 
 ## Description
 
-Integrated QR30 functionality for quick and compliant digital payments, allowing users to scan and pay via the API. Assosiated with Nest framework TypeScript starter repository.
-
-Assosiated with Nest framework TypeScript starter repository.
+Developed a RESTful API for an online banking system, incorporating QR30 for seamless and secure payments. Implemented features for managing user accounts, transactions, and balances, alongside real-time balance updates and transaction history retrieval. Integrated QR30 functionality for quick and compliant digital payments, allowing users to scan and pay via the API. Ensured robust security using OAuth 2.0 and optimized API performance to handle high transaction volumes, enhancing both user experience and payment convenience. Assosiated with Nest framework TypeScript starter repository.
 
 ## Installation
 
